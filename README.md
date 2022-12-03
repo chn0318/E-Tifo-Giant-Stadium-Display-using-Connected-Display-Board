@@ -20,7 +20,7 @@ At the hardware level, we used Esp8266 micro control unit as the control module,
 
 #### Demo
 
-![](.\pic\Demo.gif)
+<img src=".\pic\Demo.gif" style="zoom:70%;" />
 
 
 
